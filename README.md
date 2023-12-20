@@ -1,4 +1,5 @@
 # vue_admine_ui
+git clone https://github.com/makvis/mak
 
 ## Project setup
 ```
